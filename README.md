@@ -5,5 +5,5 @@
 
 项目模块：主要包括订单模块、支付模块、产品模块、用户模块等
 
-类图设计:
-![](https://mutkeb-1312064807.cos.ap-shanghai.myqcloud.com/picture/类图.pdf)
+类图设计链接：https://mutkeb-1312064807.cos.ap-shanghai.myqcloud.com/picture/3D模型设计类图.pdf
+
